@@ -2,6 +2,7 @@
 
 # Contexto
 O objetivo deste projeto é a criação de um aplicativo mobile de receitas consumindo uma API pública.
+Dimensões do display adotado: 360x640.
 
 # Preview do Projeto
 
